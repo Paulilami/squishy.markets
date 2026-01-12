@@ -86,4 +86,4 @@ If YES wins:
 **This is the minimal robust mathematical model for on-chain prediction markets.**
 
 ## Next steps
-Fixing irreversible trades / proper two-way market. The model is currently one-directional (only deposits into outcomes).
+Fixing irreversible trades / proper two-way market. The model is currently one-directional (only deposits into outcomes). Current solution is to combine "Gnosis Conditional Tokens" (for trading infrastructure) with direct probability pricing (for simplicity). This gives reversible trading without AMM complexity.
