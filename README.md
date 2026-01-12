@@ -84,3 +84,6 @@ If YES wins:
 - ⚠️ One parameter (b) - unavoidable for any robust market
 
 **This is the minimal robust mathematical model for on-chain prediction markets.**
+
+## Next steps
+Fixing irreversible trades / proper two-way market. The model is currently one-directional (only deposits into outcomes).
