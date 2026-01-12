@@ -1,7 +1,5 @@
 # Direct probability staking for prediction markets
 
-## What changes
-
 Traditional prediction markets use AMM formulas (`x × y = k`) borrowed from DEXs. This requires initial liquidity, creates arbitrary constants, and derives probability indirectly from token ratios.
 
 **I simplified this dramatically**
